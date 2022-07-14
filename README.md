@@ -1,8 +1,8 @@
-<h1 align="left">Hello World!! <img width="30" src="https://acegif.com/wp-content/gifs/globe-2.gif" />
+<h3 align="left">Hello World!! <img width="20" src="https://acegif.com/wp-content/gifs/globe-2.gif" />
 <br>
 
-<p align="center">I'm Tissyane <img height="60" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  /></p>
-</h1> 
+<h1 align="center">I'm Tissyane <img height="60" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  /></h1>
+</h3> 
 
 ###
 
