@@ -11,7 +11,6 @@
 📚 I'm graduated in Chemical Engineering at UFPR;<br>
 🌱 I'm currently studying, sleeping or gardening;<br>
 🎲 Fun fact: I've lived in a house with 14 people from all over the world;<br>
-🎲 Fun fact II: I'm from Curitiba but I talk a loooot!</p>
 <br>
 
 ###
