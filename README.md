@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-💻 I’m currently learning all about full stack web development at <a href="https://www.linkedin.com/school/driven-education">Driven Education</a>;<br>
+💻 I’m currently learning all about full stack web development at <a target="_blank" href="https://www.linkedin.com/school/driven-education">Driven Education</a>;<br>
 📚 I'm graduated in Chemical Engineering at UFPR;<br>
 🌱 I'm currently studying, sleeping or gardening;<br>
 🎲 Fun fact: I've lived in a house with 14 people from all over the world;<br>
@@ -69,10 +69,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tissyane/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/tissyane/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:tissyane@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:tissyane@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
