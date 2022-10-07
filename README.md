@@ -15,7 +15,7 @@
 
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300"/>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="350"/>
 <img align="left" style="width:500px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=tissyane" height="150" alt="stats graph"  />
 <br>
 <img align="left" style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=tissyane" height="152" alt="languages graph"  />
@@ -23,6 +23,8 @@
 <br>
 <br>
 <br><br>
+<br>
+<br>
 <br>
 <br>
 <br>
