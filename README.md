@@ -23,9 +23,8 @@
 </div>
 
 <div align="left" > 
-<img style="width:400px"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=tissyane" alt="stats graph"  />
-<br>
-<img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=tissyane" alt="languages graph"  />
+<img style="width:400px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=tissyane" alt="stats graph"  heigth="150px"/>
+<img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=tissyane" alt="languages graph" heigth="150px" />
 </div>
 </div>
 
