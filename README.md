@@ -1,12 +1,11 @@
-<div  align="left">
- <h1><img width="25" src="https://github.com/tissyane/tissyane/blob/main/Hi.gif" /> Hello World! <img width="25" src="https://acegif.com/wp-content/gifs/globe-2.gif" />
+<h1 align="left"><img width="25" src="https://github.com/tissyane/tissyane/blob/main/Hi.gif" /> Hello World! <img width="25" src="https://acegif.com/wp-content/gifs/globe-2.gif" />
 <br>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=35&center=true&vCenter=true&width=1000&height=70&lines=I'm+Tissyane;Full+Stack+Web+Developer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
   
-<div align="center"><img height="60" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  /></div>
+<div align="center"><img align="center"height="60" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  /></div>
 </h1> 
-</div>
+
 
 ###
 
@@ -19,26 +18,17 @@
 
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400"/>
-<img align="left" style="width:400px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=tissyane" height="150" alt="stats graph"  />
-<br>
-<img align="left" style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=tissyane" height="152" alt="languages graph"  />
-
+<div align="right"> 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="470"/>
 </div>
+
+<div align="left" > 
+<img style="width:400px"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=tissyane" alt="stats graph"  />
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&username=tissyane" alt="languages graph"  />
+</div>
+</div>
+
 
 <h2 align="left">Languages and Tools</h2>
 
