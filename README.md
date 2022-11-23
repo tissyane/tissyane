@@ -19,7 +19,7 @@
 
 <div>
 <div align="right"> 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450"/>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="430"/>
 </div>
 
 <div align="left" > 
